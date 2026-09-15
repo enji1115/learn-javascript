@@ -4,3 +4,4 @@ console.log('Hello JS');
 const username = '조은지';
 console.log('username', username);
 
+// vscode.dev 웹 VS Code 테스트
